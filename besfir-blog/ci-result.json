@@ -1,0 +1,66 @@
+[
+  {
+    "path": "/",
+    "score": 0.99,
+    "performance": 0.96,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/portfolio",
+    "score": 0.98,
+    "performance": 0.98,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/post/2024/creating-a-blog-prerequisite",
+    "score": 0.98,
+    "performance": 0.97,
+    "accessibility": 0.96,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/post/creating-a-blog-with-nuxt-part1",
+    "score": 1,
+    "performance": 1,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/post/page/1",
+    "score": 1,
+    "performance": 0.99,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/post/tag/Blog/page/1",
+    "score": 1,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/post/tag/Nuxt/page/1",
+    "score": 1,
+    "performance": 0.98,
+    "accessibility": 1,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
+    "path": "/tags",
+    "score": 0.99,
+    "performance": 0.99,
+    "accessibility": 0.95,
+    "best-practices": 1,
+    "seo": 1
+  }
+]
