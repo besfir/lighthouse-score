@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 0.99,
-    "performance": 0.96,
+    "score": 1,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -26,7 +26,7 @@
   {
     "path": "/blog/building-your-own-blog",
     "score": 0.98,
-    "performance": 1,
+    "performance": 0.99,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
@@ -34,7 +34,7 @@
   {
     "path": "/blog/building-your-own-blog/designing",
     "score": 0.98,
-    "performance": 0.96,
+    "performance": 0.95,
     "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
@@ -66,7 +66,7 @@
   {
     "path": "/portfolios",
     "score": 0.98,
-    "performance": 0.98,
+    "performance": 0.97,
     "accessibility": 0.95,
     "best-practices": 1,
     "seo": 1
