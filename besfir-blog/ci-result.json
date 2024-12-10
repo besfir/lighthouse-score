@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 1,
-    "performance": 1,
+    "score": 0.99,
+    "performance": 0.97,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -33,14 +33,6 @@
   },
   {
     "path": "/blog/building-your-own-blog/designing",
-    "score": 0.98,
-    "performance": 0.95,
-    "accessibility": 0.96,
-    "best-practices": 1,
-    "seo": 1
-  },
-  {
-    "path": "/blog/building-your-own-blog/index-page",
     "score": 0.98,
     "performance": 0.96,
     "accessibility": 0.96,
