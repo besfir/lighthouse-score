@@ -1,64 +1,64 @@
 [
   {
     "path": "/",
-    "score": 0.99,
-    "performance": 0.97,
+    "score": 1,
+    "performance": 0.98,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/archives",
-    "score": 0.96,
-    "performance": 0.97,
+    "score": 0.97,
+    "performance": 0.94,
     "accessibility": 0.95,
     "best-practices": 1,
-    "seo": 0.92
+    "seo": 1
   },
   {
     "path": "/blog",
-    "score": 1,
-    "performance": 0.98,
+    "score": 0.98,
+    "performance": 0.93,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/blog/building-your-own-blog",
-    "score": 0.98,
-    "performance": 0.99,
+    "score": 0.96,
+    "performance": 0.93,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 0.92
   },
   {
     "path": "/blog/building-your-own-blog/designing",
-    "score": 0.98,
-    "performance": 0.95,
+    "score": 0.95,
+    "performance": 0.85,
     "accessibility": 0.96,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/blog/tag/Blog/page/1",
-    "score": 1,
-    "performance": 0.98,
+    "score": 0.98,
+    "performance": 0.93,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/blog/tag/Nuxt/page/1",
-    "score": 1,
-    "performance": 0.98,
+    "score": 0.98,
+    "performance": 0.93,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
   },
   {
     "path": "/portfolios",
-    "score": 0.98,
-    "performance": 0.98,
+    "score": 0.96,
+    "performance": 0.9,
     "accessibility": 0.95,
     "best-practices": 1,
     "seo": 1
