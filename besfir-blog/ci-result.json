@@ -1,8 +1,8 @@
 [
   {
     "path": "/",
-    "score": 0.99,
-    "performance": 0.96,
+    "score": 1,
+    "performance": 1,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -32,6 +32,14 @@
     "seo": 0.92
   },
   {
+    "path": "/blog/building-your-own-blog/building-the-index-page",
+    "score": 0.98,
+    "performance": 0.95,
+    "accessibility": 0.97,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
     "path": "/blog/building-your-own-blog/common-components-for-layout",
     "score": 0.98,
     "performance": 0.94,
@@ -57,8 +65,8 @@
   },
   {
     "path": "/blog/tag/Blog/page/1",
-    "score": 0.99,
-    "performance": 0.97,
+    "score": 1,
+    "performance": 0.98,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -66,7 +74,7 @@
   {
     "path": "/blog/tag/Nuxt/page/1",
     "score": 0.99,
-    "performance": 0.97,
+    "performance": 0.96,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
