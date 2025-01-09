@@ -40,6 +40,14 @@
     "seo": 1
   },
   {
+    "path": "/blog/building-your-own-blog/building-the-post-list-page",
+    "score": 0.98,
+    "performance": 0.95,
+    "accessibility": 0.97,
+    "best-practices": 1,
+    "seo": 1
+  },
+  {
     "path": "/blog/building-your-own-blog/common-components-for-layout",
     "score": 0.98,
     "performance": 0.94,
@@ -65,8 +73,8 @@
   },
   {
     "path": "/blog/tag/Blog/page/1",
-    "score": 1,
-    "performance": 0.98,
+    "score": 0.99,
+    "performance": 0.95,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
@@ -74,7 +82,7 @@
   {
     "path": "/blog/tag/Nuxt/page/1",
     "score": 0.99,
-    "performance": 0.96,
+    "performance": 0.95,
     "accessibility": 1,
     "best-practices": 1,
     "seo": 1
